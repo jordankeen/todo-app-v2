@@ -1,8 +1,7 @@
-
 import React from 'react'
 
 export default () => (
-	<div className="wrap">
+  <div className="wrap">
         <h2>Simply todo List</h2>
         <ul className="menu">
           <li>
@@ -19,4 +18,4 @@ export default () => (
           <li>Get Milk <span>x</span></li>
         </ul>
       </div>
-	)
+  )
